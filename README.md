@@ -2,7 +2,7 @@
 (A new Flutter project.)
 
 
-## Add this dependency 
+## Dependency 
 ```
  like_button: ^2.0.4
 ```
